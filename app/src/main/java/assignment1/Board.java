@@ -67,6 +67,7 @@ public class Board {
         }catch(IOException e)
         {
             System.out.println(e.getMessage());
+            
         }
 
     }
